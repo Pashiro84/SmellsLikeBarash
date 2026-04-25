@@ -1,0 +1,32 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(74,25): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(74,20): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(74,15): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(132,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(134,29): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(134,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(136,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(149,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(149,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(150,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(150,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(151,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(151,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(152,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(152,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(153,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(153,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(154,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(154,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(161,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(161,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(162,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(162,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(163,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(163,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(165,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(165,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(166,19): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(166,13): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1.cpp(226,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1.vcxproj -> C:\Users\shiro\Desktop\Сашка\ConsoleApplication1_2022\Debug\ConsoleApplication1.exe

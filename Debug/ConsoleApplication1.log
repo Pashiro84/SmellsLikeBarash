@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Work\KG\2023\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Work\KG\2023\ConsoleApplication1_2022\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(168,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1.vcxproj -> C:\Work\KG\2023\ConsoleApplication1_2022\ConsoleApplication1\Debug\ConsoleApplication1.exe

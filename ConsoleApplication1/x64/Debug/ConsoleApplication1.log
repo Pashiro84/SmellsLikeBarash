@@ -1,0 +1,9 @@
+﻿ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitDisplayMode в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitPosition в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitWindowW в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxSwapBuffers в функции "void __cdecl display(void)" (?display@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxMainLoop в функции main.
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxReshapeFunc в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxIdleFunc в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+glaux.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Work\KG\2023\ConsoleApplication1_2022\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 7

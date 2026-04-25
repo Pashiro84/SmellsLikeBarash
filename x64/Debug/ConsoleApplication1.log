@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+D:\Work\KG\ConsoleApplication1_VC2019\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,33): warning C4305: аргумент: усечение из "double" в "GLclampf"
+D:\Work\KG\ConsoleApplication1_VC2019\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(168,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitDisplayMode в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitPosition в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxInitWindowW в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxSwapBuffers в функции "void __cdecl display(void)" (?display@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxMainLoop в функции main.
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxReshapeFunc в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+ConsoleApplication1.obj : error LNK2019: ссылка на неразрешенный внешний символ auxIdleFunc в функции "void __cdecl RunOpenGL(void)" (?RunOpenGL@@YAXXZ).
+glaux.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+D:\Work\KG\ConsoleApplication1_VC2019\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe : fatal error LNK1120: неразрешенных внешних элементов: 7
